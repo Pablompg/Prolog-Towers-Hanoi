@@ -8,7 +8,7 @@ This is my intelligent systems final assignment. The problem being solved is sim
 > Imagine we have a series of Pancakes of different sizes stacked one on top of the other. Lets assume we have *'n'* panckes and all of them differ in size. For a given start state find the optimum path to the desired final state which also needs to be given. 
 The pancackes can only be moved as if a spatula was being used, as in the following image.
 <p align="center">
-  <img src="PancackesImage.png" alt="" width="700">
+  <img src="Images/PancackesImage.png" alt="" width="700">
 </p>
 
 ## Approach
