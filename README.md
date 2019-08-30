@@ -14,6 +14,20 @@ The pancackes can only be moved as if a spatula was being used, as in the follow
 ## Approach
 The A* search algorithm has being implemented using two different heuristics. The menu gives the user the option of choosing which one to use.
 
+## Installation and user Instructions
+1. Dowload and install prolog at https://www.swi-prolog.org/Download.html
+2. Download this project
+3. Open prolog and load/consult `menu.pl`
+4. Execute `search.` in the command line. A menu will appear. Follow its instructions.
+
+## Documentation Instructions
+There are two methods to consult the documentation for this project
+1. A pdf can be found in this very same directory with all the necessary documentation explained
+2. Open prolog and load/consult `documentation.pl` and wait for a few seconds. This prolog script starts the documentation server at port 4000 and opens the user’s default browser on the running documentation server.
+    * Select the local directory from which you want to see the documentation (upper left options bar).
+    * Select the file you want to read (A-star is the most important file where the main's algorithms are written and explained.
+    * If you want to see the source code, you can click the  orange icon on the right side of each predicate (or the orange icon at the top).
+
 ## License
 This project is under  [MIT LICENCE](LICENSE). 
 
